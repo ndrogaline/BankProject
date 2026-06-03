@@ -1,13 +1,13 @@
-package com.example.demo;
+package mypack;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BankappApiApplication {
+public class EmployeeAppWithTddDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BankappApiApplication.class, args);
+		SpringApplication.run(EmployeeAppWithTddDemoApplication.class, args);
 	}
 
 }
